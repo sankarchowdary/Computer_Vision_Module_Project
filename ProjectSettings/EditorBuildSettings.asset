@@ -8,4 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Testing_GLTF.unity
     guid: 99c9720ab356a0642a771bea13969a05
-  m_configObjects: {}
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 74396e3adbf74ee44845390b059cea75,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 534e3025c7afe454a9dd37ae88dcda16,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 63d1fa7914ce3524fa327986b4bb8f68,
+      type: 2}
