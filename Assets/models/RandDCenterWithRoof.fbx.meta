@@ -1,0 +1,356 @@
+fileFormatVersion: 2
+guid: 40d8cbdf3306fa340b770ed54ec18f50
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Aluminium
+    second: {fileID: 2100000, guid: eb692844c49a1f4498361dbf9d3e4b8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Aluminum Black
+    second: {fileID: 2100000, guid: b307b7424c62cff4a9a2e9d5aeb460ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Aluminum Frame
+    second: {fileID: 2100000, guid: 2d05e94c73a141545b256017abe92e0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Aluminum Shiny
+    second: {fileID: 2100000, guid: b7dc2b525348d8949b0d59cbb984320a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black
+    second: {fileID: 2100000, guid: 5c2aa2e97a0d6a249b44f1c750937aa3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box Framing
+    second: {fileID: 2100000, guid: 31f00d16b74c4e14c8c55c626acbdcce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet
+    second: {fileID: 2100000, guid: 34c8037d424176a4591f86a5441ef4fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Column
+    second: {fileID: 2100000, guid: 3cc52ebf756354d488d6956176f895cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door and Window Frames (Wood)
+    second: {fileID: 2100000, guid: 8d5945781acaf4d4e9b1ac871af0672d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door and Window Panel (Wood)
+    second: {fileID: 2100000, guid: 2e312176e6e2d5d4fa2cb9e06942aba0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FS
+    second: {fileID: 2100000, guid: 8ca72fbc5b6943748a423295ab495988, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FS Gypsum Cove
+    second: {fileID: 2100000, guid: 810252458d6e83047ac8c89fbb1040a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FS Gypsum Edge
+    second: {fileID: 2100000, guid: ec2138baee30f5e47a5b3cdf96c41ab4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FS Gypsum Vertical
+    second: {fileID: 2100000, guid: 4bf57b28c17934d4d80f7ab863b11680, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FS Hexa
+    second: {fileID: 2100000, guid: 5e8750eed6af3d44f8ea87d2186425d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fencing_Mesh_Blue
+    second: {fileID: 2100000, guid: 56f684dab286f3c4bb9502e8e85f4ed1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor Tile
+    second: {fileID: 2100000, guid: 7e279c648b8392b4b994f572798e3cd3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Generic
+    second: {fileID: 2100000, guid: 4b4125f6dd1e5504aa62298f1da3565b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass Door
+    second: {fileID: 2100000, guid: b7337301a10de604383a38f002552690, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass, White, High Luminance
+    second: {fileID: 2100000, guid: 364156b3667f55b4b9205d6519d32c15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grey Paint
+    second: {fileID: 2100000, guid: 25ed2d1b93c35cb44a6aa57b88c923ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gypsum Wall 75
+    second: {fileID: 2100000, guid: 2f4a6384372c7c24297bbc44d9f9d23c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gypsum Wall 75 Laminated
+    second: {fileID: 2100000, guid: 62f5e0372107f8f4e8934faf8b7e5146, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HMI- Polished Al1
+    second: {fileID: 2100000, guid: af951f2738ad29e4fb49bf4cd374e737, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HMI-3D01 (Pellic1
+    second: {fileID: 2100000, guid: 6c379116c4110904aa4b624eaf16987b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HMI-Aeron-G1 (Gr1
+    second: {fileID: 2100000, guid: c57e19d39d4eed947b79f85e65b39b49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HMI-Aeron-G1 1
+    second: {fileID: 2100000, guid: 7788fb87386ddc446b967216f178686b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HMI-Aeron-Leathe1
+    second: {fileID: 2100000, guid: a7e34720e5877834e980572dc4ca6b0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lobby Tile
+    second: {fileID: 2100000, guid: e41cb2b49a7b0714b83d7a9d9aeb6a31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_Corrogated_Shiny
+    second: {fileID: 2100000, guid: f4b3957d4c9d64e44ab6d7ceffa426cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Orange
+    second: {fileID: 2100000, guid: 49ea7ad1b3a5d994c804d0a957e7147d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PVC
+    second: {fileID: 2100000, guid: ac1f6cf42df6be240a076bc9f3a463d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ply
+    second: {fileID: 2100000, guid: 9c90bcc4c795a8c4eb8c02832005695d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shelf Ply
+    second: {fileID: 2100000, guid: 3f4b643c3f2434a4e876742d4f0a8537, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Softboard
+    second: {fileID: 2100000, guid: ad610e3f1d932ec49baa6e04510831fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel, Chrome Plated
+    second: {fileID: 2100000, guid: 41a39dc79ab94124493f2c2f7a93f840, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel, Paint Finish, Dark Gray, Matte
+    second: {fileID: 2100000, guid: 61dbdd8f882461a4c9d1f253f3cf674c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TV - Black
+    second: {fileID: 2100000, guid: eacb242fba95da945886ea415d37f5d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TV - Glass
+    second: {fileID: 2100000, guid: ed603e4ea42ca084280339b3ec176d7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TV - Screen
+    second: {fileID: 2100000, guid: 893a8e4223777904cb96fe9a606d8f2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Table
+    second: {fileID: 2100000, guid: 2d0cc0e883df77f4e9c2e54f796301a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Table Top Cubical
+    second: {fileID: 2100000, guid: e5ac3f674aa0213479015544a196fa34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tech Wall Accent Panel
+    second: {fileID: 2100000, guid: f9549b97923d6db43a11f7f8c08e1c9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tech Wall Base
+    second: {fileID: 2100000, guid: 89b663ecaab132e41a2289855cd3a100, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tech Wall Framing
+    second: {fileID: 2100000, guid: 709e717d6f7d51a4b9fb069572cb2a38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tech Wall Solid Panel
+    second: {fileID: 2100000, guid: 21569d1c4066c594eb20bee4eb93fd6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall Type C 3
+    second: {fileID: 2100000, guid: 411c709f695cf5842a0f9dd8a610ffc8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall White
+    second: {fileID: 2100000, guid: eedca98ba518b1241824ddb5a8003690, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White Paint
+    second: {fileID: 2100000, guid: 257fd1de8ab72fe49aa60633e02aff6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0136_Charcoal]1'
+    second: {fileID: 2100000, guid: 93d66173ec73cf24183e6df8c20c293a, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 45
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 64
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
